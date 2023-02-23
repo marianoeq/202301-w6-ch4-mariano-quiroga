@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "start": "node ./dist/index.js",
-    "nodemon": "cross-env PORT=4500 nodemon ./dist/index.js",
+    "nodemon": "cross-env PORT=2020 nodemon ./dist/index.js",
     "build": "tsc -w",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
